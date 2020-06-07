@@ -1,4 +1,4 @@
-# ToasterLib [![](https://jitpack.io/v/hardik0899/ToasterLib.svg)](https://jitpack.io/#hardik0899/ToasterLib)
+# ToasterLib(Version-1.0.0) [![](https://jitpack.io/v/hardik0899/ToasterLib.svg)](https://jitpack.io/#hardik0899/ToasterLib)
 
 
 Toasts are one of the favourite classes used in android.. Therefore I made a library which depicts easy one line usage of Toast without importing in the projects in every class :)
