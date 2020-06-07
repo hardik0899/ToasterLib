@@ -1,4 +1,4 @@
-# ToasterLib
+# ToasterLib [![](https://jitpack.io/v/hardik0899/ToasterLib.svg)](https://jitpack.io/#hardik0899/ToasterLib)
 
 
 Toasts are one of the favourite classes used in android.. Therefore I made a library which depicts easy one line usage of Toast without importing in the projects in every class :)
@@ -19,9 +19,9 @@ Add it in your root build.gradle at the end of repositories:
   
   Step 2. Add the dependency
   
-  dependencies {
-	        implementation 'com.github.hardik0899:ToasterLib:1.0.0'
-	}
+dependencies {
+  	implementation 'com.github.hardik0899:ToasterLib:1.0.0'
+}
   
  Now, just sync your project and here you go.. wohoo ❤ now library is in your project folder you just have you follow these steps in order to use my library.
  
