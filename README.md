@@ -20,8 +20,8 @@ Add it in your root build.gradle at the end of repositories:
   Step 2. Add the dependency
   
   dependencies {
-	        implementation 'com.github.hardik0899:ToasterLib:1.0.0'
-}
+	   implementation 'com.github.hardik0899:ToasterLib:1.0.0'
+	}
   
   
  Now, just sync your project and here you go.. wohoo ❤ now library is in your project folder you just have you follow these steps in order to use my library.
@@ -40,3 +40,5 @@ Add it in your root build.gradle at the end of repositories:
 
 
 Now, Run and Build the project and you will be able to see a Toast that will be generated with help of Hardik's Toast-Lib library which is easy to use.
+
+Made by ❤ by hardik0899
