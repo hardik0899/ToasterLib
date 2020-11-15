@@ -42,4 +42,4 @@ Add it in your root build.gradle at the end of repositories:
 
 Now, Run and Build the project and you will be able to see a Toast that will be generated with help of Hardik's Toast-Lib library which is easy to use.
 
-Made by ❤ by hardik0899
+Made by ❤ by Hardik Dua
