@@ -1,4 +1,4 @@
-# ToasterLib(Version-1.0.0) [![](https://jitpack.io/v/hardik0899/ToasterLib.svg)](https://jitpack.io/#hardik0899/ToasterLib) [![Build Status](https://travis-ci.org/{ORG-or-hardik0899}/{ToasterLib}.png?branch=master)](https://travis-ci.org/{ORG-or-hardik0899}/{ToasterLib})
+# ToasterLib(Version-1.0.0) [![](https://jitpack.io/v/hardik0899/ToasterLib.svg)](https://jitpack.io/#hardik0899/ToasterLib) 
 
 
 
