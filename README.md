@@ -19,7 +19,8 @@ Add it in your root build.gradle at the end of repositories:
   
   Step 2. Add the dependency
   
-  dependencies {
+  
+  	dependencies {
 	   implementation 'com.github.hardik0899:ToasterLib:1.0.0'
 	}
   
@@ -29,8 +30,8 @@ Add it in your root build.gradle at the end of repositories:
  
  So, write the following code in your MainActivity or any other activities and fragments.
  
- import hardik.lib.toasterlibrary.ToasterMessage;
-
+    import hardik.lib.toasterlibrary.ToasterMessage;
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
