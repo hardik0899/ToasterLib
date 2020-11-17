@@ -5,7 +5,7 @@
 Toasts are one of the favourite classes used in android.. Therefore I made a library which depicts easy one line usage of Toast without importing in the projects in every class :)
 
 
-So for adding this to your project just follow these stepps :->
+So for adding this to your project just follow these steps :->
 
 Step 1. Add the JitPack repository to your build file.
 
