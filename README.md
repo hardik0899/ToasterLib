@@ -26,7 +26,7 @@ Add it in your root build.gradle at the end of repositories:
 	}
   
   
- Now, just sync your project and here you go.. wohoo ❤ now library is in your project folder you just have you follow these steps in order to use my library.
+ Now, just sync your project and here you go.. wohoo ❤ now library is in your project folder you just have to follow these steps in order to use my library.
  
  
  So, write the following code in your MainActivity or any other activities and fragments.
